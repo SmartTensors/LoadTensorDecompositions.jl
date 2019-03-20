@@ -2,6 +2,8 @@ module LoadTensorDecompositions
 
 import JLD
 
+JLD.translate("Core.Bool", "bool")
+
 if isdefined(Main, :TensorDecompositions)
 	@warn("TensorDecompositions is imported in the REPL; LoadTensorDecompositions may not work!")
 end
