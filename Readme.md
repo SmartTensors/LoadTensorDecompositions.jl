@@ -6,7 +6,7 @@ LoadTensorDecompositions
 After starting Julia, execute:
 
 ```julia
-import Pkg; Pkg.clone("https://github.com/TensorDecompositions/LoadTensorDecompositions.jl.git")
+import Pkg; Pkg.add("https://github.com/TensorDecompositions/LoadTensorDecompositions.jl.git")
 ```
 
 ### Tensor Decomposition
