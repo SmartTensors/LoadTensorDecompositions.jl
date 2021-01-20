@@ -7,8 +7,8 @@
 	logallrefupdates = true
 [remote "origin"]
 	url = https://github.com/TensorDecompositions/LoadTensorDecompositions.jl.git
-	url = https://github.com/SmartTensors/LoadSmartTensors.jl.git
-	url = https://gitlab.com/SmartTensors/LoadSmartTensors.jl.git
+	url = https://github.com/SmartTensors/LoadTensorDecompositions.jl.git
+	url = https://gitlab.com/SmartTensors/LoadTensorDecompositions.jl.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
