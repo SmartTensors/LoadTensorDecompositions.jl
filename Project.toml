@@ -1,7 +1,7 @@
 name = "LoadTensorDecompositions"
 uuid = "bae27b42-c72a-5733-8f2d-201965195bfc"
 authors = ["Velimir V Vesselinov (monty) <velimir.vesselinov@gmail.com>"]
-version = "1.1.0"
+version = "1.1.1"
 
 [deps]
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
